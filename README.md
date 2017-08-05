@@ -11,4 +11,21 @@
 
 
 
-met
+<meta http-equiv="content-tupe" content="text/html; charset=UTF-8" />
+<meta name="viewport content="width=device-width,user-scalable=no" />
+<title>BezaBead</title>
+</head>
+
+<body onload="startGame(Menu, 30);">
+<canvas id="iCanvas" width="550" height="300"></canvas>
+<div id="hint"></div>
+
+<script type="text/javascript">
+
+
+
+</script>
+
+</body>
+</html>
+
